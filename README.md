@@ -1,6 +1,6 @@
 # JayCart Backend
 
-This is the backend for the JayCart eCommerce project, built using Node.js, Express, and PostgreSQL with plain SQL queries. The project follows a clean layered architecture inspired by the MVC pattern to organize code for scalability and maintainability.
+This is the backend for the JayCart eCommerce project, built using Node.js, Express, and PostgreSQL with plain SQL queries. The project follows a clean layered architecture(N-Tier) inspired by the MVC pattern to organize code for scalability and maintainability.
 
 ---
 
